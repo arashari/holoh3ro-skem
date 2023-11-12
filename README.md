@@ -56,6 +56,8 @@ Dalam melakukan pelabelan data, Penulis mencoba menggunakan 3 tingkat toleransi 
 
 ## 5. Analisa Data
 
+> ### analisa menggunakan script dapat dilihat di [Kaggle - holosk3m](https://www.kaggle.com/code/arashari/holosk3m)
+
 Dari 1204 data _live stream_ yang dimiliki, diketahui jumlah _live stream_ dengan kategori skem sebagai berikut:
 
 | | Kobo Kanaeru | Kaela Kovalskia | Vestia Zeta |
